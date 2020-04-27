@@ -1,0 +1,20 @@
+#aLogout {
+    color: rgb(187, 227, 255);
+}
+#aLogout:hover {
+    color: white;
+}
+#laporanContainer {
+    display:flex; 
+    align-items: center; 
+    justify-content: space-evenly;
+}
+#laporanContainer div {
+    text-align: center;
+    margin: 5px;
+}
+#laporanContainer div a {
+    width: 240px;
+    height: 100px;
+    align-items: center;
+}

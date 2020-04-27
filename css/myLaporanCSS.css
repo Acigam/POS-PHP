@@ -1,0 +1,36 @@
+body{
+	font-family: arial, sans-serif;
+	font-size: 10px;
+}
+table{
+	font-size: 10px;
+	border: 1px solid black;
+	margin-left:auto; 
+    margin-right:auto;
+}
+#laporan{
+	color:black;
+	padding:6px 2px;
+}
+#laporan table{
+	border-collapse:collapse;
+	border: 1px solid;
+	font-size:11px;
+}
+#laporan table th{
+	font-weight:bold;
+	vertical-align:middle;
+}
+#laporan table bp{
+	border:black;
+}
+.pagebreak{
+	visibility:visible;
+	page-break-after:always;
+}
+.garis{
+	border:solid 1px;
+}
+.nongaris{
+	border: none;
+}
